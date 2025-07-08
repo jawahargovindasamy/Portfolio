@@ -1,4 +1,4 @@
-# vCard - Personal Portfolio
+# Personal Portfolio
 
 A personal portfolio website built with HTML, CSS, JavaScript and ionicons.
 
