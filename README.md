@@ -8,7 +8,6 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Customization](#customization)
 - [Deployment](#deployment)
 - [Contact](#contact)
