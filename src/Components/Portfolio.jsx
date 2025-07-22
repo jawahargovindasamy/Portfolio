@@ -261,7 +261,7 @@ const Portfolio = () => {
               <div className="relative">
                 <div className="w-60 h-60 sm:w-56 sm:h-56 md:w-64 md:h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-4 border-yellow-400 shadow-2xl">
                   <img
-                    src="/public/Jawahar.jpg"
+                    src="/Jawahar.jpg"
                     alt="Jawahar - Web Developer"
                     className="w-full h-full object-cover"
                   />
