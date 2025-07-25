@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import JawaharImg from '../../public/Jawahar.jpg';
+import JawaharImg from "../../public/Jawahar.jpg";
 import {
   FaDownload,
   FaEnvelope,
@@ -330,7 +330,7 @@ const Portfolio = () => {
                   </div>
                   <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 mt-6 sm:mt-8">
                     <a
-                      href=""
+                      href="https://github.com/jawahargovindasamy"
                       target="_blank"
                       className="flex-1"
                       rel="noreferrer"
@@ -340,7 +340,11 @@ const Portfolio = () => {
                         GitHub
                       </button>
                     </a>
-                    <a href="https://www.linkedin.com/in/jawahar-govindasamy-407480236/" target="_blank" className="flex-1">
+                    <a
+                      href="https://www.linkedin.com/in/jawahar-govindasamy-407480236/"
+                      target="_blank"
+                      className="flex-1"
+                    >
                       <button className="w-full inline-flex items-center justify-center px-3 py-2 text-xs sm:text-sm border border-yellow-400 text-yellow-400 hover:bg-yellow-400 hover:text-black bg-transparent rounded-md transition-colors duration-200">
                         <FaLinkedin className="h-4 w-4 mr-2" />
                         LinkedIn
@@ -539,13 +543,23 @@ const Portfolio = () => {
                 </div>
               </div>
               <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 mt-6 sm:mt-8">
-                <a href="" target="_blank" className="flex-1" rel="noreferrer">
+                <a
+                  href="https://github.com/jawahargovindasamy"
+                  target="_blank"
+                  className="flex-1"
+                  rel="noreferrer"
+                >
                   <button className="w-full inline-flex items-center justify-center px-3 py-2 text-xs sm:text-sm border border-yellow-400 text-yellow-400 hover:bg-yellow-400 hover:text-black bg-transparent rounded-md transition-colors duration-200">
                     <FaGithub className="h-4 w-4 mr-2" />
                     GitHub
                   </button>
                 </a>
-                <a href="https://www.linkedin.com/in/jawahar-govindasamy-407480236/" target="_blank" className="flex-1" rel="noreferrer">
+                <a
+                  href="https://www.linkedin.com/in/jawahar-govindasamy-407480236/"
+                  target="_blank"
+                  className="flex-1"
+                  rel="noreferrer"
+                >
                   <button className="w-full inline-flex items-center justify-center px-3 py-2 text-xs sm:text-sm border border-yellow-400 text-yellow-400 hover:bg-yellow-400 hover:text-black bg-transparent rounded-md transition-colors duration-200">
                     <FaLinkedin className="h-4 w-4 mr-2" />
                     LinkedIn
