@@ -319,15 +319,7 @@ const Portfolio = () => {
                       </p>
                     </div>
                   </div>
-                  <div className="flex items-start">
-                    <FaPhone className="h-5 w-5 text-yellow-400 mr-3 mt-1 flex-shrink-0" />
-                    <div>
-                      <p className="text-xs sm:text-sm text-gray-400">Phone</p>
-                      <p className="text-sm sm:text-base text-white">
-                        +91 9597941922
-                      </p>
-                    </div>
-                  </div>
+                  
                   <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 mt-6 sm:mt-8">
                     <a
                       href="https://github.com/jawahargovindasamy"
@@ -525,19 +517,6 @@ const Portfolio = () => {
                     </h4>
                     <p className="text-gray-400 text-xs sm:text-sm break-all">
                       jawahargovindasamy19@gmail.com
-                    </p>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <div className="bg-yellow-400 p-2 sm:p-3 rounded-full mr-3 sm:mr-4 flex-shrink-0">
-                    <FaPhone className="h-4 w-4 sm:h-6 sm:w-6 text-black" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-white text-sm sm:text-base">
-                      Phone
-                    </h4>
-                    <p className="text-gray-400 text-xs sm:text-sm">
-                      +91 9597941922
                     </p>
                   </div>
                 </div>
